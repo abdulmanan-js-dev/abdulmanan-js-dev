@@ -1,4 +1,3 @@
-<img src="https://github.com/abdulmanan-js-dev/abdulmanan-js-dev/blob/main/profile.PNG" alt="GitHub Portfolio Banner" width="100%" />
 
 <h1 align="center">Hi, I'm Abdul Manan 👋</h1>
 <h3 align="center">Full-Stack Developer in Progress | Strong Frontend Foundation | Growing Backend Skills</h3>
